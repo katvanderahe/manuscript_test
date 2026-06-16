@@ -1,11 +1,3 @@
-parentid,objectid,title,,date,description,subject,source,identifier,type,format,language,rights,rightsstatement,display_template,object_location,image_small,image_thumb,image_alt_text,object_transcript,,,
-book1,,Riches_Heures_du_duc_de_Berry,,,,,,,,,,,,compound_object,,,,,,,,
-book1,page1,,,,baptiism of saint augustine ,book of hours; manuscript; french,,Folio_37v_-_The_Baptism_of_Saint_Augustine,Image;StillImage,image/jpeg,fre,,,image,/objects/Folio_37v_-_The_Baptism_of_Saint_Augustine.jpg,/objects/small/folio_37v_-_the_baptism_of_saint_augustine_sm.jpg,/objects/thumbs/folio_37v_-_the_baptism_of_saint_augustine_th.jpg,,,,,
-,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,object_transcript
+parentid,objectid,title,,date,description,subject,source,identifier,type,format,language,rights,rightsstatement,display_template,object_location,image_small,image_thumb,image_alt_text,object_transcript
+book1,,Riches_Heures_du_duc_de_Berry,,,,,,,,,,,,compound_object,,,,,
+book1,page1,,,,baptiism of saint augustine ,book of hours; manuscript; french,,Folio_37v_-_The_Baptism_of_Saint_Augustine,Image;StillImage,image/jpeg,fre,,,image,/objects/Folio_37v_-_The_Baptism_of_Saint_Augustine.jpg,/objects/small/folio_37v_-_the_baptism_of_saint_augustine_sm.jpg,/objects/thumbs/folio_37v_-_the_baptism_of_saint_augustine_th.jpg,,
