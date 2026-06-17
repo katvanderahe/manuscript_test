@@ -1,3 +1,33 @@
-parentid,objectid,title,,date,description,subject,source,identifier,type,format,language,rights,rightsstatement,display_template,object_location,image_small,image_thumb,image_alt_text,object_transcript
-book1,,Riches_Heures_du_duc_de_Berry,,,,,,,,,,,,compound_object,,,,,
-book1,page1,,,,baptiism of saint augustine ,book of hours; manuscript; french,,Folio_37v_-_The_Baptism_of_Saint_Augustine,Image;StillImage,image/jpeg,fre,,,image,/objects/Folio_37v_-_The_Baptism_of_Saint_Augustine.jpg,/objects/small/folio_37v_-_the_baptism_of_saint_augustine_sm.jpg,/objects/thumbs/folio_37v_-_the_baptism_of_saint_augustine_th.jpg,,
+parentid,objectid,title,,date,description,subject,source,identifier,type,format,language,rights,rightsstatement,display_template,object_location,image_small,image_thumb,image_alt_text,object_transcript,,,,,
+book1,page1,Riches_Heures_du_duc_de_Berry,,,baptiism of saint augustine ,book of hours; manuscript; french,,Folio_37v_-_The_Baptism_of_Saint_Augustine,Image;StillImage,image/jpeg,fre,,,compound_object,/objects/Folio_37v_-_The_Baptism_of_Saint_Augustine.jpg,/objects/small/folio_37v_-_the_baptism_of_saint_augustine_sm.jpg,/objects/thumbs/folio_37v_-_the_baptism_of_saint_augustine_th.jpg,,,,,,,
+book1,page 2,The_Funeral_of_Raymond_DiocreÃÄs_,,,,book of hours; manuscript; french,,Folio_86v_-_The_Funeral_of_Raymond_,Image;StillImage,image/jpeg,fre,,,,/objects/Folio_86v_-_The_Funeral_of_Raymond_DiocreÃÄs_(cropped).jpg,/objects/small/folio_86v_-_the_funeral_of_raymond_diocreÃÄs_(cropped)_sm.jpg,/objects/thumbs/folio_86v_-_the_funeral_of_raymond_diocreÃÄs_(cropped)_th.jpg,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+demo_010,demo_008,Patrick McMarron Records Fire Conditions at Hell's Half Acre Lookout,Keeping Watch,2021-07-13,,Example child object. Video of Patrick McMarron recording fire conditions in July of 2021 on Hells Half Acre Fire Lookout,,Hell's Half Acre,45.64579,-114.62838,,,Image;MovingImage,video/mp4,eng,,,,video,https://cdil.lib.uidaho.edu/keeping-watch/objects/video/patrick_records_weather.mp4,,,man in fire lookout tower records conditions in notebook,"[Unknown speaker reports on slightly fuzzy radio while as Patrick McMarron writes notes]
+
+Temperatures 85 to 90 in valleys, 70 to 75 ridges.
+Minimum humidity 15 to 25 percent valleys and 22 to 32 percent ridges.
+20 foot winds at lower elevations Northwest, 5 to 15 miles per hour.
+Ridge top, Northwest, 5 to 15 miles per hour.
+Hains index 4 low. LAL 4. 
+Chance of rain zero percent. 
+Break.
+
+Tonight’s sky weather, mostly clear, smoke.
+Minimum temperature 45 to 55 valleys...
+
+[video ends abruptly]"
