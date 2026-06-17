@@ -20,5 +20,6 @@ padding: 6em
 ## Context for the Project
   
 *At vero eos et accusamus et iusto* **odio dignissimos ducimus qui blanditiis praesentium** voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. 
+{% include feature/image.html objectid="page3" %}
 
 <pulled in other md file using liquid, feature includes the items that allow you to link and pull content using liquid which is/>
