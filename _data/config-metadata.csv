@@ -4,8 +4,8 @@ creator,Creator,,,DCTERMS.creator,creator
 date,Date Created,,,DCTERMS.date,dateCreated
 description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
-Transcription,,,Transcription
-Translation,,,Transcription
+Transcription,Transcription,
+Translation,Transcription,
 source,Source,,,,
 identifier,Source Identifier,,,,
 type,Type,,,DCTERMS.type,
