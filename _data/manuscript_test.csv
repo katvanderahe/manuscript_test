@@ -1,10 +1,10 @@
 objectid,parentid,title,creator,date,date-is-approximate?,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement,display_template,object_location,image_small,image_thumb,image_alt_text,object_transcript
-page0,book1,,,,,,,,,,,,compound_object,,,,,compound_object,,,,,
+book1,,Hours of Duke de Berry,,,,,,,,,,,compound_object,,,,,compound_object,,,,,
 page1,book1,Janvier.jpg,,,,,,,,,,Janvier.jpg,Image;StillImage,image/jpeg,french,,,image,/objects/Janvier.jpg,/objects/small/janvier_sm.jpg,/objects/thumbs/janvier_th.jpg,,
 page8,book1,aout.jpg,,,,,,,,,,aout.jpg,Image;StillImage,image/jpeg,french,,,image,/objects/aout.jpg,/objects/small/aout_sm.jpg,/objects/thumbs/aout_th.jpg,,
 page4,book1,avril.jpg,,,,,,,,,,avril.jpg,Image;StillImage,image/jpeg,french,,,image,/objects/avril.jpg,/objects/small/avril_sm.jpg,/objects/thumbs/avril_th.jpg,,
-page12,book1,deÃÅcembre.jpg,,,,,,,,,,deÃÅcembre.jpg,Image;StillImage,image/jpeg,french,,,image,/objects/deÃÅcembre.jpg,/objects/small/deÃÅcembre_sm.jpg,/objects/thumbs/deÃÅcembre_th.jpg,,
-page2,book1,feÃÅvrier.jpg,,,,,,,,,,feÃÅvrier.jpg,Image;StillImage,image/jpeg,french,,,image,/objects/feÃÅvrier.jpg,/objects/small/feÃÅvrier_sm.jpg,/objects/thumbs/feÃÅvrier_th.jpg,,
+page12,book1,deacembre.jpg,,,,,,,,,,deacembre.jpg,Image;StillImage,image/jpeg,french,,,image,/objects/deacembre.jpg,/objects/small/deacembre_sm.jpg,/objects/thumbs/deacembre_th.jpg,,
+page2,book1,feavrier.jpg,,,,,,,,,,feavrier.jpg,Image;StillImage,image/jpeg,french,,,image,/objects/feavrier.jpg,/objects/small/feavrier_sm.jpg,/objects/thumbs/feavrier_th.jpg,,
 page7,book1,juillet.jpg,,,,,,,,,,juillet.jpg,Image;StillImage,image/jpeg,french,,,image,/objects/juillet.jpg,/objects/small/juillet_sm.jpg,/objects/thumbs/juillet_th.jpg,,
 page6,book1,juin.jpg,,,,,,,,,,juin.jpg,Image;StillImage,image/jpeg,french,,,image,/objects/juin.jpg,/objects/small/juin_sm.jpg,/objects/thumbs/juin_th.jpg,,
 pag5,book1,mai.jpg,,,,,,,,,,mai.jpg,Image;StillImage,image/jpeg,french,,,image,/objects/mai.jpg,/objects/small/mai_sm.jpg,/objects/thumbs/mai_th.jpg,,
